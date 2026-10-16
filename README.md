@@ -1,16 +1,16 @@
-# Python Learning Journey 🐍
+# Python Learning Journey 
 
 I'm learning Python through [freeCodeCamp](https://www.freecodecamp.org/) and documenting my progress, coding practice, and projects in this repository.
 
 My goal is to build a strong foundation in Python, improve my problem-solving skills, and eventually apply Python to data analysis and data science.
 
-## 📚 Learning Resource
+##  Learning Resource
 
 - **Platform:** [freeCodeCamp](https://www.freecodecamp.org/)
 - **Course:** Python
 - **Status:** In Progress
 
-## 📈 Learning Progress
+##  Learning Progress
 
 - [x] Python Basics — 116/140 steps completed
 - [ ] Install Python — 0/5 steps completed
@@ -25,7 +25,7 @@ My goal is to build a strong foundation in Python, improve my problem-solving sk
 - [ ] Graphs and Trees — 0/51 steps completed
 - [ ] Dynamic Programming — 0/4 steps completed
 
-## 🛠️ Projects and Practice
+##  Projects and Practice
 
 ### Completed Projects
 - Report Card Printer
@@ -46,14 +46,14 @@ My goal is to build a strong foundation in Python, improve my problem-solving sk
 - Hash Table
 - Tower of Hanoi Algorithm
 
-## 💻 Tools and Technologies
+##  Tools and Technologies
 
 - Python
 - Visual Studio Code
 - Git
 - GitHub
 
-## 🎯 My Goals
+##  My Goals
 
 - Complete the Python curriculum on freeCodeCamp.
 - Practice writing clean, readable Python code.
@@ -62,10 +62,10 @@ My goal is to build a strong foundation in Python, improve my problem-solving sk
 - Build projects using real-world datasets.
 - Prepare for a data analysis internship.
 
-## 📅 Learning Approach
+##  Learning Approach
 
 I aim to practice regularly, understand concepts instead of just copying solutions, and document what I learn along the way.
 
 ---
 
-**Learning step by step, improving with every line of code!** 🚀
+**Learning step by step, improving with every line of code!** 
